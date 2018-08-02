@@ -24,9 +24,16 @@ Model would be saved as `face_rank_model.h5`
 ```
 python3 evaluate.py
 ```
+
 ## 6. Predict
 ```
 python3 predict.py
 ```
+
+## 7. Demo
+```
+python3 main.py
+```
+
 ## 8. More face ranking projects
 - https://github.com/fendouai/FaceRank
