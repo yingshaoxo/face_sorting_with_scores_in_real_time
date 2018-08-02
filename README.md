@@ -1,6 +1,7 @@
 ## Face sorting with scores in real time (face attractiveness ranker)
 
 Based on https://github.com/joshualeung/mini-face-rank
+
 ![Showcase](Screenshot.png)
 
 ### 1. Dependencies
